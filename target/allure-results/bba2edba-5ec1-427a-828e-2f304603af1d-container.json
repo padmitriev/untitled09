@@ -1,0 +1,1 @@
+{"uuid":"bba2edba-5ec1-427a-828e-2f304603af1d","name":"exercise1","children":["eeb7a8fa-7a39-4993-a099-be6cafa8e97c"],"befores":[{"name":"setupTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1627425557576,"stop":1627425572421}],"afters":[],"links":[],"start":1627425557517,"stop":1627425575483}
