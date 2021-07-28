@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import io.qameta.allure.Step;
 
 public class ex1Steps {
-    private WebDriver driver;
+//     private WebDriver driver;
     PageSteps pageSteps;
 
 //    @BeforeTest
