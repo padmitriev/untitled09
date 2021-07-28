@@ -130,8 +130,8 @@ public class ex1Steps {
 //
 //    }
 
-    @AfterMethod
-    public void teardown() {
-        driver.quit();
+//     @AfterMethod
+//     public void teardown() {
+//         driver.quit();
     }
 }
